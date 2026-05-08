@@ -1,12 +1,11 @@
-# Hi, I'm Abdul Basit 👋
-
-Backend Developer focused on building scalable web applications and REST APIs using Django and Django REST Framework.
+<h1 align="center">Hi 👋, I'm Abdul Basit</h1>
+<h3 align="center">Backend Developer | Django & DRF | API Development</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently building **EduVerse**, an online learning platform
+- 🔭 Currently building **EduVerse**, a scalable online learning platform
 - 🌱 Improving backend engineering and scalable API architecture
 - 💡 Interested in backend systems, authentication, databases, and software architecture
 - ⚙️ Focused on Django, DRF, JWT Authentication, and API Development
@@ -16,20 +15,19 @@ Backend Developer focused on building scalable web applications and REST APIs us
 ## 🛠 Tech Stack
 
 ### Backend
-- Python
-- Django
-- Django REST Framework
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django" />
+</p>
 
 ### Database
-- SQLite
-- MySQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
 
 ### Tools & Technologies
-- Git & GitHub
-- JWT Authentication
-- Djoser
-- Swagger / drf-spectacular
-- Postman
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
 
 ---
 
@@ -55,12 +53,24 @@ E-commerce backend with authentication, cart, and order management APIs.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AB-Git23&show_icons=true&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AB-Git23&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/AB-Git23
+- GitHub: [AB-Git23](https://github.com/AB-Git23)
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy building backend systems and transforming ideas into scalable applications.
+I enjoy designing scalable backend systems and RESTful APIs.
