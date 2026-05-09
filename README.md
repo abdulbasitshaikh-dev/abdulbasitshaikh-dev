@@ -65,7 +65,7 @@ E-commerce backend with authentication, cart, and order management APIs.
 ## 📫 Connect With Me
 
 - GitHub: [AB-Git23](https://github.com/AB-Git23)
-- LinkedIn: [Abdul Basit](https://www.linkedin.com/in/abdul-basit-3a192a3a2/)
+- LinkedIn: [Abdul Basit](https://www.linkedin.com/in/abdulbasitshaikh-dev/)
 
 ---
 
